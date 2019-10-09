@@ -1,0 +1,11 @@
+/home/jose/programacion/dataTypes/obj/Debug/netcoreapp2.2/dataTypes.csprojAssemblyReference.cache
+/home/jose/programacion/dataTypes/obj/Debug/netcoreapp2.2/dataTypes.csproj.CoreCompileInputs.cache
+/home/jose/programacion/dataTypes/obj/Debug/netcoreapp2.2/dataTypes.AssemblyInfoInputs.cache
+/home/jose/programacion/dataTypes/obj/Debug/netcoreapp2.2/dataTypes.AssemblyInfo.cs
+/home/jose/programacion/dataTypes/bin/Debug/netcoreapp2.2/dataTypes.deps.json
+/home/jose/programacion/dataTypes/bin/Debug/netcoreapp2.2/dataTypes.runtimeconfig.json
+/home/jose/programacion/dataTypes/bin/Debug/netcoreapp2.2/dataTypes.runtimeconfig.dev.json
+/home/jose/programacion/dataTypes/bin/Debug/netcoreapp2.2/dataTypes.dll
+/home/jose/programacion/dataTypes/bin/Debug/netcoreapp2.2/dataTypes.pdb
+/home/jose/programacion/dataTypes/obj/Debug/netcoreapp2.2/dataTypes.dll
+/home/jose/programacion/dataTypes/obj/Debug/netcoreapp2.2/dataTypes.pdb
