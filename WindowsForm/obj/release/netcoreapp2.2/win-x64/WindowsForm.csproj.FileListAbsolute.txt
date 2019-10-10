@@ -1,0 +1,4 @@
+/home/jose/programacion/WindowsForm/obj/release/netcoreapp2.2/win-x64/WindowsForm.csprojAssemblyReference.cache
+/home/jose/programacion/WindowsForm/obj/release/netcoreapp2.2/win-x64/WindowsForm.csproj.CoreCompileInputs.cache
+/home/jose/programacion/WindowsForm/obj/release/netcoreapp2.2/win-x64/WindowsForm.AssemblyInfoInputs.cache
+/home/jose/programacion/WindowsForm/obj/release/netcoreapp2.2/win-x64/WindowsForm.AssemblyInfo.cs
